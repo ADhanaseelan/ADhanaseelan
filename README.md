@@ -20,7 +20,7 @@ location   : Tamil Nadu, India 🇮🇳
 education  : B.Tech Information Technology
 college    : Nandha Engineering College
 role       : Frontend Developer & UI/UX Enthusiast
-portfolio  : https://dhanaseelanportfolio1.netlify.app/
+portfolio  : https://portfolio-dun-mu-68.vercel.app/
 email      : dhanaseelandhanaseelan464@gmail.com
 ```
 
